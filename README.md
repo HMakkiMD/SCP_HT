@@ -1,5 +1,6 @@
 # SCP_HT
-High-throughput simulation of 105 semiconducting polymers (SCP)
+High-throughput simulation of 105 semiconducting polymers (SCP).
+
 This repository contents:
 1. Input files (including the structure and force field) for 105 SCP studied in (link)
 2. Codes to analyse structural features of SCP models (example for 1 SCP is provided)
