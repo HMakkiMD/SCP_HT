@@ -1,0 +1,12 @@
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+1     3     yes     0.5     0.5
+
+#include "IDTT(a16x4)_BPD(a1)_RU_SC_1.itp"
+
+[ system ]
+; Name
+IDTT(a16x4)_BPD(a1)_RU_SC_1
+
+[ molecules ]
+IDTT(a16x4)_BPD(a1)_RU_SC_1  1
