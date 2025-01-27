@@ -1,0 +1,12 @@
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+1     3     yes     0.5     0.5
+
+#include "BNT_DPP(b12_2_8x2)_BNT_TFF_RU_SC_10.itp"
+
+[ system ]
+; Name
+BNT_DPP(b12_2_8x2)_BNT_TFF_RU_SC_10
+
+[ molecules ]
+BNT_DPP(b12_2_8x2)_BNT_TFF_RU_SC_10  1
