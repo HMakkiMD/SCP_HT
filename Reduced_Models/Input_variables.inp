@@ -1,0 +1,4 @@
+input_dir = "/placeholder/rigid_chain_log/"
+polymer_types = "/placeholder/polymer_types.txt"
+nsamples = 10000
+output_dir = "/placeholder/rigid_alpha_beta/"
