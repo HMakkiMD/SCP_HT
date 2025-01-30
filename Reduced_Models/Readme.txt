@@ -1,1 +1,2 @@
-
+1. The 'Rigid_chain_fitting' folder provides input data (rigid structures, polymer types) and code to fit a tight-binding Hamiltonian to DFT-computed orbital energies.
+2. The 'Computed_DOS_fit' folder provides input data (computed DOS files, HOMO & LUMO energies, alpha & beta determined from rigid model, polymer types), code containing the algorithm used to fit the DOS, and optimised parameters for each polymer obtained from this code.
