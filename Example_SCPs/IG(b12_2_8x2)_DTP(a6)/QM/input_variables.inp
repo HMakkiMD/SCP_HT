@@ -1,0 +1,11 @@
+polymer_name = "IG(b12_2_8x2)_DTP(a6)"
+chain_length = 10
+nsample_start = 1
+nsample_end = 200
+broadening_1 = 0.0125
+broadening_2 = 0.0250
+broadening_3 = 0.0350
+broadening_4 = 0.050
+E_start = -8.0
+E_end = 0.0
+point_charges = 'both'
