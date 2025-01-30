@@ -1,0 +1,9 @@
+num_iterations = 10000
+initial_temp = 0.0010
+cooling_rate = 0.9997
+HOMO_LUMO_dir = "/placeholder/HOMOs_LUMOs/"
+DOS_dir = "/placeholder/DOS_files/"
+polymer_types = "/placeholder/polymer_types.txt"
+diag_disorder = "/placeholder/diag_disorder_250rep.txt"
+off_diag_disorder = "/placeholder/off_diag_disorder_250rep.txt"
+rigid_alpha_beta_dir = "/placeholder/rigid_alpha_beta/"
